@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Clemsmith
-- 👀 I’m interested in ...Java and AI   
-- 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Clemzysmith@gmail.com
+- 👋 Hi, My name is Clement Olusesan
+- 👀 I’m a Data Analyst and Business intelligence Analyst
+- 🌱 i currentlyy use Python, SQL, Excel and business intelligence tools like Power Bi and Tableau for data manipulation, data query and visualizations.
+- 💞️ I’m currently learning ... SQL, Cloud computing and AI development
+- 📫 i am available for data analyst and business intelligence roles. kindly reach out to me via Linkedin or email
+- 📫 How to reach me ... Email - oluclementsmith@gmail, Linkedin: @www.linkedin.com/in/olusesan-clement-676234225
 
-<!---
-Clemsmith/Clemsmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
